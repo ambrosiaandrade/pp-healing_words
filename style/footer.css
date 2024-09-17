@@ -1,0 +1,30 @@
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-style: italic;
+}
+
+footer a {
+  color: #007bff; /* Cor inicial dos links */
+  text-decoration: none; /* Remove sublinhado dos links */
+  margin: 0 10px; /* Espaçamento entre os links */
+  font-size: 18px; /* Tamanho do texto do link */
+  display: inline-flex; /* Flex para alinhar o texto e o ícone */
+  align-items: center; /* Alinha verticalmente o ícone com o texto */
+  transition: color 0.3s ease, transform 0.3s ease; /* Transições suaves */
+}
+
+footer a:hover {
+  color: #0056b3; /* Cor do link ao passar o mouse */
+  transform: scale(1.1); /* Leve zoom ao passar o mouse */
+}
+
+footer i {
+  font-size: 24px; /* Tamanho dos ícones */
+  margin-right: 8px; /* Espaço entre ícone e texto */
+  transition: transform 0.3s ease; /* Suaviza a animação do ícone */
+}
+
+footer a:hover i {
+  transform: rotate(20deg); /* Leve rotação do ícone ao passar o mouse */
+}

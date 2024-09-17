@@ -1,0 +1,62 @@
+
+/* Botões */
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.settings-btn {
+  background-color: #28a745;
+}
+
+.settings-btn:hover {
+  background-color: #1e7e34;
+}
+
+.settings-btn i {
+  margin-right: 5px;
+}
+
+.reset-button {
+  margin-left: auto;
+  height: fit-content;
+  background-color: #ffffff; /* Cor de fundo branca */
+  border: 2px solid #007bff; /* Borda azul para destaque */
+  color: #007bff; /* Cor do texto azul */
+  padding: 8px 16px; /* Espaçamento interno ajustado */
+  font-size: 14px; /* Tamanho da fonte */
+  font-weight: bold; /* Texto em negrito */
+  cursor: pointer;
+  border-radius: 5px; /* Bordas arredondadas */
+  display: flex; /* Flexbox para alinhamento */
+  align-items: center; /* Alinhamento vertical dos itens */
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Transições suaves */
+}
+
+.reset-button:hover {
+  background-color: #007bff; /* Cor de fundo ao passar o mouse */
+  color: #ffffff; /* Cor do texto ao passar o mouse */
+  border-color: #007bff; /* Cor da borda ao passar o mouse */
+}
+
+.reset-button:active {
+  background-color: #0056b3; /* Cor de fundo ao clicar */
+  border-color: #0056b3; /* Cor da borda ao clicar */
+  color: #ffffff; /* Cor do texto ao clicar */
+}
+
+.reset-button i {
+  margin-right: 8px; /* Espaço entre o ícone e o texto */
+  font-size: 16px; /* Tamanho do ícone ajustado */
+}

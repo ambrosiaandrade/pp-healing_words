@@ -1,0 +1,60 @@
+/* Estilos gerais */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  color: #333;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Contêiner e layout */
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+/* Painel de configurações */
+.settings-panel {
+  display: none;
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  border-radius: 5px;
+}
+
+.settings-container {
+  display: flex; /* Torna o container um flex container */
+}
+
+.settings-header-container {
+  align-items: center;
+  display: flex; /* Torna o container um flex container */
+  padding: 0 1em 0.5em;
+}
+
+.setting-column {
+  flex: 1; /* Faz com que as colunas ocupem o espaço disponível igualmente */
+}
+
+.settings-panel.active {
+  display: block;
+}
+
+.settings-panel label {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+label {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
