@@ -8,9 +8,13 @@ A iniciativa busca entender como a prática regular de afirmações pode influen
 
 Trata-se de um experimento pessoal para avaliar as mudanças após um período determinado.🎯
 
-
-## 🔗 Link do Deploy
-Acesse o projeto online clicando [aqui!](https://pp-healing-words.vercel.app) 🌐
+#### Sumário
+- [Funcionalidades](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#%EF%B8%8F-funcionalidades)
+- [Categorias de frases afirmativas do Projeto](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#categorias-de-frases-afirmativas-do-projeto)
+- [Link do Deploy](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#-link-do-deploy)
+- [Possíveis Implementações Futuras](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#-poss%C3%ADveis-implementa%C3%A7%C3%B5es-futuras)
+- [Feedback](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#-feedback)
+- [Referências Científicas sobre Afirmações Positivas](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#refer%C3%AAncias-cient%C3%ADficas-sobre-afirma%C3%A7%C3%B5es-positivas)
 
 ## 🛠️ Funcionalidades
 - 💡 Visualização aleatóriamente de
@@ -21,7 +25,7 @@ Acesse o projeto online clicando [aqui!](https://pp-healing-words.vercel.app) �
   - a visualização com o tema claro ou escuro
 - 💾 Os dados configurados são salvos no próprio navegador, evitando a necessidade de associar a uma conta por exemplo
 
-## Categorias de frases afirmativas do Projeto
+## 🗃️ Categorias de frases afirmativas do Projeto
 
 | Não religioso                                   | Religioso                        |
 |-------------------------------------------------|----------------------------------|
@@ -47,6 +51,9 @@ Isso fortalece a ideia de que todos têm um lugar e voz dentro dessa plataforma,
 
 Em resumo, a diversidade de categorias oferecidas não só enriquece a experiência do usuário, mas também promove uma cultura de respeito e valorização das diferenças, celebrando a riqueza das variadas perspectivas e crenças.
 
+## 🔗 Link do Deploy
+Acesse o projeto online clicando [aqui!](https://pp-healing-words.vercel.app) 🌐
+
 ## 📈 Possíveis Implementações Futuras 
 - **Contador de Uso**: Adicionar um contador para monitorar a frequência das práticas, como "5 dias seguidos", ajudando os usuários a acompanhar seu progresso e engajamento.
 - **Personalização de Mensagens**: Permitir que os usuários adicionem suas próprias mensagens e personalizem o conteúdo das afirmações para se adequar melhor às suas necessidades individuais.
@@ -55,7 +62,7 @@ Em resumo, a diversidade de categorias oferecidas não só enriquece a experiên
 ## 💬 Feedback
 Adoraría ouvir o que você acha! Deixe suas sugestões ou melhorias na seção de [issues](https://github.com/ambrosiaandrade/pp-healing_words/issues) do projeto! 📢
 
-## Referências Científicas sobre Afirmações Positivas
+## 📚 Referências Científicas sobre Afirmações Positivas
 
 De acordo com o ChatGPT, abaixo estão algumas referências relevantes:
 
