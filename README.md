@@ -9,12 +9,12 @@ A iniciativa busca entender como a prática regular de afirmações pode influen
 Trata-se de um experimento pessoal para avaliar as mudanças após um período determinado.🎯
 
 #### Sumário
-- [Funcionalidades](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#%EF%B8%8F-funcionalidades)
-- [Categorias de frases afirmativas do Projeto](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#categorias-de-frases-afirmativas-do-projeto)
-- [Link do Deploy](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#-link-do-deploy)
-- [Possíveis Implementações Futuras](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#-poss%C3%ADveis-implementa%C3%A7%C3%B5es-futuras)
-- [Feedback](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#-feedback)
-- [Referências Científicas sobre Afirmações Positivas](https://github.com/ambrosiaandrade/pp-healing_words/edit/main/README.md#refer%C3%AAncias-cient%C3%ADficas-sobre-afirma%C3%A7%C3%B5es-positivas)
+- [Funcionalidades](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#%EF%B8%8F-funcionalidades)
+- [Categorias de frases afirmativas do Projeto](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#%EF%B8%8F-categorias-de-frases-afirmativas-do-projeto)
+- [Link do Deploy](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#-link-do-deploy)
+- [Possíveis Implementações Futuras](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#-poss%C3%ADveis-implementa%C3%A7%C3%B5es-futuras)
+- [Feedback](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#-feedback)
+- [Referências Científicas sobre Afirmações Positivas](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#-refer%C3%AAncias-cient%C3%ADficas-sobre-afirma%C3%A7%C3%B5es-positivas)
 
 ## 🛠️ Funcionalidades
 - 💡 Visualização aleatóriamente de
