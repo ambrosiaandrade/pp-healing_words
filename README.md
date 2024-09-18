@@ -11,7 +11,7 @@ Trata-se de um experimento pessoal para avaliar as mudanças após um período d
 #### Sumário
 - [Funcionalidades](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#%EF%B8%8F-funcionalidades)
 - [Categorias de frases afirmativas do Projeto](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#%EF%B8%8F-categorias-de-frases-afirmativas-do-projeto)
-- [Link do Deploy](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#-link-do-deploy)
+- [Link do Site](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#-link-do-deploy)
 - [Possíveis Implementações Futuras](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#-poss%C3%ADveis-implementa%C3%A7%C3%B5es-futuras)
 - [Feedback](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#-feedback)
 - [Referências Científicas sobre Afirmações Positivas](https://github.com/ambrosiaandrade/pp-healing_words/tree/main#-refer%C3%AAncias-cient%C3%ADficas-sobre-afirma%C3%A7%C3%B5es-positivas)
@@ -30,16 +30,13 @@ Trata-se de um experimento pessoal para avaliar as mudanças após um período d
 | Não religioso                                   | Religioso                        |
 |-------------------------------------------------|----------------------------------|
 | **Padrão**                                      | **Orixá**                        | 
-| **Mente**                                       | **Ancestral**                    |     
-| **Aprendizado e Criatividade**                  | **Budismo**                      |                         
-| **Autoconfiança e Autoaceitação**               | **Paganismo**                    |                             
-| **Proteção e Segurança**                        | **Bruxaria**                     |                     
-| **Crescimento Pessoal**                         | **Cristianismo**                 |                       
-| **Sucesso e Prosperidade**                      | **Espiritismo**                  |                         
-| **Amor e Relacionamentos**                      | **Espiritualidade**              |                             
-| **Sonhos**
-| **Liberdade e Coragem**
-| **Felicidade e Bem-estar**
+| **Mente, Aprendizado e Criatividade**           | **Ancestral**                    |     
+| **Autoconfiança e Autoaceitação**               | **Budismo**                      | 
+| **Proteção e Segurança**                        | **Paganismo**                    |                             
+| **Crescimento Pessoal, Sucesso e Prosperidade** | **Bruxaria**                     |                     
+| **Amor e Relacionamentos**                      | **Cristianismo**                 |                       
+| **Sonhos, Liberdade e Coragem**                 | **Espiritismo**                  |                         
+| **Felicidade e Bem-estar**                      | **Espiritualidade**              |                             
 | **Inclusão e Neurodiversidade**
 | **Sexualidade e Expressão Pessoal**
 | **Idade e Sabedoria**
@@ -51,7 +48,7 @@ Isso fortalece a ideia de que todos têm um lugar e voz dentro dessa plataforma,
 
 Em resumo, a diversidade de categorias oferecidas não só enriquece a experiência do usuário, mas também promove uma cultura de respeito e valorização das diferenças, celebrando a riqueza das variadas perspectivas e crenças.
 
-## 🔗 Link do Deploy
+## 🔗 Link do Site
 Acesse o projeto online clicando [aqui!](https://pp-healing-words.vercel.app) 🌐
 
 ## 📈 Possíveis Implementações Futuras 
