@@ -1,0 +1,711 @@
+{
+  "chakras": [
+    {
+      "name": "Chakra Raiz",
+      "location": "Base da Coluna Vertebral",
+      "color": "Vermelho",
+      "crystals": [
+        "Jaspe Vermelho",
+        "Granada",
+        "Hematita",
+        "Turmalina Negra"
+      ],
+      "purpose": "Conexão com a Terra, segurança, estabilidade"
+    },
+    {
+      "name": "Chakra Sacral",
+      "location": "Abaixo do Umbigo",
+      "color": "Laranja",
+      "crystals": [
+        "Cornalina",
+        "Calcita Laranja",
+        "Âmbar",
+        "Pedra do Sol"
+      ],
+      "purpose": "Criatividade, sensualidade, emoções"
+    },
+    {
+      "name": "Chakra do Plexo Solar",
+      "location": "Região do Estômago",
+      "color": "Amarelo",
+      "crystals": [
+        "Citrino",
+        "Olho de Tigre",
+        "Âmbar",
+        "Calcita Amarela"
+      ],
+      "purpose": "Poder pessoal, confiança, autoestima"
+    },
+    {
+      "name": "Chakra Cardíaco",
+      "location": "Centro do Peito",
+      "color": "Verde ou Rosa",
+      "crystals": [
+        "Quartzo Rosa",
+        "Aventurina Verde",
+        "Malaquita",
+        "Jade",
+        "Rodocrosita"
+      ],
+      "purpose": "Amor, compaixão, cura emocional"
+    },
+    {
+      "name": "Chakra Laríngeo",
+      "location": "Garganta",
+      "color": "Azul Claro",
+      "crystals": [
+        "Água-marinha",
+        "Turquesa",
+        "Larimar",
+        "Ágata Azul Rendada",
+        "Crisocola"
+      ],
+      "purpose": "Comunicação, expressão, verdade"
+    },
+    {
+      "name": "Chakra do Terceiro Olho",
+      "location": "Testa",
+      "color": "Azul Índigo",
+      "crystals": [
+        "Lápis-lazúli",
+        "Sodalita",
+        "Azurita",
+        "Ametista"
+      ],
+      "purpose": "Intuição, percepção, sabedoria interior"
+    },
+    {
+      "name": "Chakra Coronário",
+      "location": "Topo da Cabeça",
+      "color": "Roxo ou Branco/Dourado",
+      "crystals": [
+        "Ametista",
+        "Selenita",
+        "Quartzo Transparente",
+        "Lepidolita"
+      ],
+      "purpose": "Conexão espiritual, iluminação, consciência superior"
+    }
+  ],
+  "crystals": [
+    {
+      "name": "Jaspe Vermelho",
+      "color": "Vermelho",
+      "chakra": "Chakra Raiz",
+      "properties": [
+        "Aterramento",
+        "Estabilidade",
+        "Coragem"
+      ]
+    },
+    {
+      "name": "Granada",
+      "color": "Vermelho",
+      "chakra": "Chakra Raiz",
+      "properties": [
+        "Força",
+        "Paixão",
+        "Proteção"
+      ]
+    },
+    {
+      "name": "Hematita",
+      "color": "Cinza Metálico",
+      "chakra": "Chakra Raiz",
+      "properties": [
+        "Aterramento",
+        "Proteção",
+        "Foco"
+      ]
+    },
+    {
+      "name": "Turmalina Negra",
+      "color": "Preto",
+      "chakra": "Chakra Raiz",
+      "properties": [
+        "Proteção",
+        "Purificação",
+        "Aterramento"
+      ]
+    },
+    {
+      "name": "Cornalina",
+      "color": "Laranja",
+      "chakra": "Chakra Sacral",
+      "properties": [
+        "Criatividade",
+        "Vitalidade",
+        "Coragem"
+      ]
+    },
+    {
+      "name": "Calcita Laranja",
+      "color": "Laranja",
+      "chakra": "Chakra Sacral",
+      "properties": [
+        "Criatividade",
+        "Energia",
+        "Equilíbrio Emocional"
+      ]
+    },
+    {
+      "name": "Âmbar",
+      "color": "Amarelo-Laranja",
+      "chakra": "Chakra Sacral e Plexo Solar",
+      "properties": [
+        "Cura",
+        "Proteção",
+        "Purificação"
+      ]
+    },
+    {
+      "name": "Pedra do Sol",
+      "color": "Laranja",
+      "chakra": "Chakra Sacral",
+      "properties": [
+        "Alegria",
+        "Liderança",
+        "Abundância"
+      ]
+    },
+    {
+      "name": "Citrino",
+      "color": "Amarelo",
+      "chakra": "Chakra do Plexo Solar",
+      "properties": [
+        "Manifestação",
+        "Abundância",
+        "Confiança"
+      ]
+    },
+    {
+      "name": "Olho de Tigre",
+      "color": "Marrom e Dourado",
+      "chakra": "Chakra do Plexo Solar",
+      "properties": [
+        "Proteção",
+        "Coragem",
+        "Aterramento"
+      ]
+    },
+    {
+      "name": "Calcita Amarela",
+      "color": "Amarelo",
+      "chakra": "Chakra do Plexo Solar",
+      "properties": [
+        "Confiança",
+        "Purificação",
+        "Clareza"
+      ]
+    },
+    {
+      "name": "Quartzo Rosa",
+      "color": "Rosa",
+      "chakra": "Chakra Cardíaco",
+      "properties": [
+        "Amor Incondicional",
+        "Compaixão",
+        "Cura Emocional"
+      ]
+    },
+    {
+      "name": "Aventurina Verde",
+      "color": "Verde",
+      "chakra": "Chakra Cardíaco",
+      "properties": [
+        "Cura",
+        "Prosperidade",
+        "Equilíbrio Emocional"
+      ]
+    },
+    {
+      "name": "Malaquita",
+      "color": "Verde",
+      "chakra": "Chakra Cardíaco",
+      "properties": [
+        "Transformação",
+        "Proteção",
+        "Cura Emocional"
+      ]
+    },
+    {
+      "name": "Jade",
+      "color": "Verde",
+      "chakra": "Chakra Cardíaco",
+      "properties": [
+        "Abundância",
+        "Harmonia",
+        "Equilíbrio"
+      ]
+    },
+    {
+      "name": "Rodocrosita",
+      "color": "Rosa",
+      "chakra": "Chakra Cardíaco",
+      "properties": [
+        "Amor",
+        "Compaixão",
+        "Cura de Traumas Passados"
+      ]
+    },
+    {
+      "name": "Água-marinha",
+      "color": "Azul Claro",
+      "chakra": "Chakra Laríngeo",
+      "properties": [
+        "Comunicação",
+        "Coragem",
+        "Calma"
+      ]
+    },
+    {
+      "name": "Turquesa",
+      "color": "Turquesa",
+      "chakra": "Chakra Laríngeo",
+      "properties": [
+        "Cura",
+        "Proteção",
+        "Comunicação"
+      ]
+    },
+    {
+      "name": "Larimar",
+      "color": "Azul Claro",
+      "chakra": "Chakra Laríngeo",
+      "properties": [
+        "Comunicação",
+        "Paz",
+        "Cura Emocional"
+      ]
+    },
+    {
+      "name": "Ágata Azul Rendada",
+      "color": "Azul Claro",
+      "chakra": "Chakra Laríngeo",
+      "properties": [
+        "Clareza",
+        "Calma",
+        "Comunicação"
+      ]
+    },
+    {
+      "name": "Crisocola",
+      "color": "Azul-Esverdeado",
+      "chakra": "Chakra Laríngeo",
+      "properties": [
+        "Comunicação",
+        "Empoderamento",
+        "Cura Emocional"
+      ]
+    },
+    {
+      "name": "Lápis-lazúli",
+      "color": "Azul Profundo",
+      "chakra": "Chakra do Terceiro Olho",
+      "properties": [
+        "Intuição",
+        "Visão Espiritual",
+        "Verdade"
+      ]
+    },
+    {
+      "name": "Sodalita",
+      "color": "Azul",
+      "chakra": "Chakra do Terceiro Olho",
+      "properties": [
+        "Intuição",
+        "Clareza",
+        "Foco"
+      ]
+    },
+    {
+      "name": "Azurita",
+      "color": "Azul Profundo",
+      "chakra": "Chakra do Terceiro Olho",
+      "properties": [
+        "Intuição",
+        "Sabedoria Espiritual",
+        "Autoconhecimento"
+      ]
+    },
+    {
+      "name": "Ametista",
+      "color": "Roxo",
+      "chakra": "Chakra Coronário",
+      "properties": [
+        "Proteção Espiritual",
+        "Calma",
+        "Conexão Espiritual"
+      ]
+    },
+    {
+      "name": "Selenita",
+      "color": "Branco",
+      "chakra": "Chakra Coronário",
+      "properties": [
+        "Clareza Mental",
+        "Cura Espiritual",
+        "Purificação"
+      ]
+    },
+    {
+      "name": "Quartzo Transparente",
+      "color": "Transparente",
+      "chakra": "Chakra Coronário",
+      "properties": [
+        "Amplificação de Energia",
+        "Clareza",
+        "Cura"
+      ]
+    },
+    {
+      "name": "Lepidolita",
+      "color": "Lilás",
+      "chakra": "Chakra Coronário",
+      "properties": [
+        "Calma",
+        "Equilíbrio Emocional",
+        "Cura Espiritual"
+      ]
+    }
+  ],
+  "essential_oils": [
+    {
+      "name": "Lavanda",
+      "botanical_name": "Lavandula angustifolia",
+      "properties": [
+        "Relaxante",
+        "Calmante",
+        "Alívio do estresse"
+      ],
+      "uses": [
+        "Induz o sono",
+        "Reduz a ansiedade",
+        "Alivia dores de cabeça"
+      ],
+      "chakra": "Chakra Coronário"
+    },
+    {
+      "name": "Hortelã-pimenta",
+      "botanical_name": "Mentha piperita",
+      "properties": [
+        "Revigorante",
+        "Energizante",
+        "Estimulante mental"
+      ],
+      "uses": [
+        "Alivia dores de cabeça",
+        "Melhora a concentração",
+        "Alivia congestão nasal"
+      ],
+      "chakra": "Chakra do Plexo Solar"
+    },
+    {
+      "name": "Eucalipto",
+      "botanical_name": "Eucalyptus globulus",
+      "properties": [
+        "Descongestionante",
+        "Purificante",
+        "Antisséptico"
+      ],
+      "uses": [
+        "Alivia sintomas de resfriado",
+        "Purifica o ar",
+        "Estimula o sistema respiratório"
+      ],
+      "chakra": "Chakra Laríngeo"
+    },
+    {
+      "name": "Ylang Ylang",
+      "botanical_name": "Cananga odorata",
+      "properties": [
+        "Relaxante",
+        "Equilibrador de emoções",
+        "Afrodisíaco"
+      ],
+      "uses": [
+        "Reduz estresse e ansiedade",
+        "Equilibra as emoções",
+        "Aumenta a sensualidade"
+      ],
+      "chakra": "Chakra Cardíaco"
+    },
+    {
+      "name": "Tea Tree (Melaleuca)",
+      "botanical_name": "Melaleuca alternifolia",
+      "properties": [
+        "Antisséptico",
+        "Antifúngico",
+        "Purificante"
+      ],
+      "uses": [
+        "Trata acne",
+        "Desinfeta cortes e feridas",
+        "Alivia irritações da pele"
+      ],
+      "chakra": "Chakra Raiz"
+    },
+    {
+      "name": "Laranja Doce",
+      "botanical_name": "Citrus sinensis",
+      "properties": [
+        "Revigorante",
+        "Alegre",
+        "Redutor de estresse"
+      ],
+      "uses": [
+        "Melhora o humor",
+        "Reduz a ansiedade",
+        "Aumenta a energia"
+      ],
+      "chakra": "Chakra Sacral"
+    },
+    {
+      "name": "Alecrim",
+      "botanical_name": "Rosmarinus officinalis",
+      "properties": [
+        "Estimulante mental",
+        "Revigorante",
+        "Melhora a memória"
+      ],
+      "uses": [
+        "Melhora a concentração",
+        "Aumenta a clareza mental",
+        "Estimula o crescimento do cabelo"
+      ],
+      "chakra": "Chakra do Terceiro Olho"
+    },
+    {
+      "name": "Patchouli",
+      "botanical_name": "Pogostemon cablin",
+      "properties": [
+        "Aterrador",
+        "Estabilizador emocional",
+        "Afrodisíaco"
+      ],
+      "uses": [
+        "Reduz a ansiedade",
+        "Equilibra as emoções",
+        "Promove a sensualidade"
+      ],
+      "chakra": "Chakra Raiz"
+    },
+    {
+      "name": "Limão Siciliano",
+      "botanical_name": "Citrus limon",
+      "properties": [
+        "Revigorante",
+        "Estimulante",
+        "Purificante"
+      ],
+      "uses": [
+        "Melhora o humor",
+        "Estimula o sistema imunológico",
+        "Limpa e purifica o ar"
+      ],
+      "chakra": "Chakra do Plexo Solar"
+    },
+    {
+      "name": "Camomila Romana",
+      "botanical_name": "Chamaemelum nobile",
+      "properties": [
+        "Calmante",
+        "Anti-inflamatório",
+        "Relaxante"
+      ],
+      "uses": [
+        "Reduz o estresse",
+        "Alivia irritações da pele",
+        "Promove o relaxamento"
+      ],
+      "chakra": "Chakra Coronário"
+    },
+    {
+      "name": "Cravo",
+      "botanical_name": "Eugenia caryophyllata",
+      "properties": [
+        "Estimulante",
+        "Antisséptico",
+        "Analgésico"
+      ],
+      "uses": [
+        "Alivia dores de dente",
+        "Trata infecções",
+        "Estímulo mental"
+      ],
+      "chakra": "Chakra Raiz"
+    },
+    {
+      "name": "Mandarina Verde",
+      "botanical_name": "Citrus reticulata",
+      "properties": [
+        "Revitalizante",
+        "Alegre",
+        "Equilibrante"
+      ],
+      "uses": [
+        "Reduz a ansiedade",
+        "Melhora o humor",
+        "Equilibra as emoções"
+      ],
+      "chakra": "Chakra Sacral"
+    },
+    {
+      "name": "Citronela",
+      "botanical_name": "Cymbopogon nardus",
+      "properties": [
+        "Repelente natural",
+        "Purificante",
+        "Revigorante"
+      ],
+      "uses": [
+        "Afasta insetos",
+        "Purifica o ambiente",
+        "Reduz odores"
+      ],
+      "chakra": "Chakra Raiz"
+    },
+    {
+      "name": "Sálvia",
+      "botanical_name": "Salvia officinalis",
+      "properties": [
+        "Antisséptico",
+        "Estimulante",
+        "Calmante"
+      ],
+      "uses": [
+        "Alivia sintomas de resfriado",
+        "Estimula a memória",
+        "Reduz a ansiedade"
+      ],
+      "chakra": "Chakra do Terceiro Olho"
+    },
+    {
+      "name": "Menta Piperita",
+      "botanical_name": "Mentha piperita",
+      "properties": [
+        "Revigorante",
+        "Energizante",
+        "Estimulante mental"
+      ],
+      "uses": [
+        "Alivia dores de cabeça",
+        "Melhora a concentração",
+        "Alivia congestão nasal"
+      ],
+      "chakra": "Chakra do Plexo Solar"
+    },
+    {
+      "name": "Lemongrass",
+      "botanical_name": "Cymbopogon citratus",
+      "properties": [
+        "Revitalizante",
+        "Purificante",
+        "Estimulante"
+      ],
+      "uses": [
+        "Aumenta a energia",
+        "Purifica o ambiente",
+        "Reduz o estresse"
+      ],
+      "chakra": "Chakra Sacral"
+    },
+    {
+      "name": "Grapefruit",
+      "botanical_name": "Citrus paradisi",
+      "properties": [
+        "Revigorante",
+        "Energizante",
+        "Desintoxicante"
+      ],
+      "uses": [
+        "Melhora o humor",
+        "Ajuda na perda de peso",
+        "Purifica o corpo"
+      ],
+      "chakra": "Chakra do Plexo Solar"
+    }
+  ],
+  "blends": [
+    {
+      "name": "Gerânio, Sálvia e Lavanda",
+      "benefits": [
+        "Promove equilíbrio emocional",
+        "Ajuda a aliviar o estresse e a ansiedade",
+        "Induz relaxamento e melhora a qualidade do sono",
+        "Estimula a criatividade e a intuição"
+      ],
+      "chakra": "Chakra Cardíaco e Chakra do Terceiro Olho"
+    },
+    {
+      "name": "Sálvia, Patchouli e Laranja Doce",
+      "benefits": [
+        "Aumenta a clareza mental e a concentração",
+        "Proporciona alívio do estresse e ansiedade",
+        "Equilibra emoções e promove sensação de bem-estar",
+        "Estimulante do sistema imunológico"
+      ],
+      "chakra": "Chakra do Terceiro Olho e Chakra Sacral"
+    },
+    {
+      "name": "Menta Piperita, Lemongrass e Grapefruit",
+      "benefits": [
+        "Revitaliza e energiza o corpo e a mente",
+        "Aumenta a clareza mental e a concentração",
+        "Purifica o ambiente e reduz odores",
+        "Estimulante do sistema digestivo e do metabolismo"
+      ],
+      "chakra": "Chakra do Plexo Solar e Chakra Sacral"
+    },
+    {
+      "name": "Lavanda, Eucalipto e Limão Siciliano",
+      "benefits": [
+        "Promove relaxamento e alívio do estresse",
+        "Purifica o ar e fortalece o sistema respiratório",
+        "Revitaliza e energiza o corpo e a mente",
+        "Ajuda a melhorar a concentração e o foco"
+      ],
+      "chakra": "Chakra Coronário e Chakra do Plexo Solar"
+    },
+    {
+      "name": "Hortelã-Pimenta, Tea Tree e Citronela",
+      "benefits": [
+        "Revitaliza e energiza o corpo",
+        "Possui propriedades antissépticas e repelentes",
+        "Ajuda a aliviar dores de cabeça e congestão",
+        "Purifica o ambiente e reduz odores"
+      ],
+      "chakra": "Chakra do Plexo Solar e Chakra Raiz"
+    },
+    {
+      "name": "Ylang Ylang, Patchouli e Grapefruit",
+      "benefits": [
+        "Equilibra emoções e promove relaxamento",
+        "Aumenta a sensualidade e a criatividade",
+        "Revitaliza e energiza o corpo e a mente",
+        "Ajuda a melhorar o humor e a autoimagem"
+      ],
+      "chakra": "Chakra Cardíaco e Chakra Sacral"
+    },
+    {
+      "name": "Alecrim, Mandarina Verde e Cravo",
+      "benefits": [
+        "Estimula a memória e a clareza mental",
+        "Revitaliza e energiza o corpo",
+        "Possui propriedades antissépticas e analgésicas",
+        "Aumenta a motivação e a confiança"
+      ],
+      "chakra": "Chakra do Terceiro Olho e Chakra Raiz"
+    },
+    {
+      "name": "Sálvia, Laranja Doce e Menta Piperita",
+      "benefits": [
+        "Aumenta a clareza mental e a concentração",
+        "Proporciona alívio do estresse e ansiedade",
+        "Revitaliza e energiza o corpo",
+        "Equilibra emoções e promove bem-estar"
+      ],
+      "chakra": "Chakra do Terceiro Olho e Chakra Sacral"
+    }
+  ]
+}

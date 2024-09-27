@@ -35,8 +35,12 @@ document.addEventListener('DOMContentLoaded', () => {
   }, 200); // 500 milissegundos = 0.5 segundo
 });
 
-document.getElementById('runScriptBtn').addEventListener('click', () => {
+document.getElementById('generateAffirmativeThoughtsBtn').addEventListener('click', () => {
   generateAffirmativeThoughts();
+});
+
+document.getElementById('generateHolisticInfoBtn').addEventListener('click', () => {
+  //generateAffirmativeThoughts();
 });
 
 document.getElementById('showPropertyNonReligious').addEventListener('click', (event) => {
@@ -53,6 +57,7 @@ document.getElementById('showPropertyReligious').addEventListener('click', (even
   } else {
     document.getElementById('religiousContainer').innerHTML = "";
   }
+  removeAllItensByFlag(event.target.checked)
 });
 
 document.getElementById('nonReligiousContainer').addEventListener('click', (event) => {

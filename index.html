@@ -20,9 +20,9 @@
 <body>
   <button class="toggle-btn" onclick="toggleTheme()">
     <i id="toggleThemeBtn" class="fas fa-moon"></i> 
-    Alternar Tema</button>
+    Tema</button>
   <button class="settings-btn" onclick="toggleSettings()">
-    <i class="fas fa-cogs"></i> Configurações
+    <i class="fas fa-cogs"></i> Configuração
   </button>
 
   <!-- Painel de configurações -->
@@ -53,13 +53,22 @@
     </div>
   </div>
 
-  <div class="container">
+  <div class="container" id="container_affirmative">
     <h1>Pensamentos Afirmativos</h1>
-    <button id="runScriptBtn" class="toggle-btn">Gerar</button>
+    <button id="generateAffirmativeThoughtsBtn" class="toggle-btn">Gerar</button>
     <div id="infoContainer"></div>
     <br />
     <div id="tipsContainer" class="grey"></div>
   </div>
+
+  <div class="container"  id="container_holistic">
+    <h1>Holístico</h1>
+    <button id="generateHolisticInfoBtn" class="toggle-btn">Gerar</button>
+    <div id="infoContainer"></div>
+    <br />
+    <div id="tipsContainer" class="grey"></div>
+  </div>
+
   <footer>
     <p>Desenvolvido por Ambrósia Andrade</p>
     <p>
@@ -67,8 +76,8 @@
       <a href="https://github.com/ambrosiaandrade" target="_blank"><i class="fab fa-github"></i> GitHub</a>
     </p>
   </footer>
-  <script src="./affirmative_thought.js" defer></script>
-  <script src="./index.js" defer></script>
+  <script src="./script/affirmative_thought.js" defer></script>
+  <script src="./script/index.js" defer></script>
 </body>
 
 </html>

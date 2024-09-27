@@ -149,6 +149,18 @@ function generateListHTML(isReligious) {
 
 }
 
+function removeAllItensByFlag(isReligious) {
+  console.log("removeAllItensByFlag(isReligious) " + isReligious)
+  console.log("listCombined ", listCombined)
+  if (isReligious){
+    listCombined = listCombined.filter(item => listWithReligion.includes(item.replace("_",",")));
+  } else {
+    listCombined = listCombined.filter(item => listWithoutReligion.includes(item.replace("_",",")));
+  }
+  console.log("listCombined after", listCombined)
+  setListInLocalStorage(listCombined);
+}
+
 function updateList(name, isChecked, isReligious) {
   if (typeof name !== "undefined") {
     if (isReligious) {
